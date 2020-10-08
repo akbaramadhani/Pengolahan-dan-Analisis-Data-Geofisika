@@ -1,4 +1,4 @@
-# Tugas-Pengolahan-Data-Geofisika
+# Pengolahan dan Analisis Data Geofisika
 
 TUGAS 1 PENGOLAHAN DAN ANALISI DATA GEOFFISIKA
 
