@@ -1,6 +1,6 @@
 # Pengolahan dan Analisis Data Geofisika
 
-TUGAS 1 PENGOLAHAN DAN ANALISI DATA GEOFFISIKA
+TUGAS 1 PENGOLAHAN DAN ANALISI DATA GEOFISIKA
 
 oleh : Akbar Ramadhani
 
